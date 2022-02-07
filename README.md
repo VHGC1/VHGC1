@@ -1,1 +1,1 @@
-[![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VHGC1)](https://github.com/VHGC1)
+[![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VHGC1&theme=gotham)](https://github.com/VHGC1)
