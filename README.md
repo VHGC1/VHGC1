@@ -36,5 +36,5 @@ My name is Vitor and I'm a computer engineer student. I'm from Brazil, and curre
 
 <div>
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=VHGC1&theme=gotham&count_private=true" />
-<img  heigth="195px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VHGC1&theme=gotham&layout=compact" />
+<img  heigth="158px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VHGC1&theme=gotham&layout=compact" />
 </div>
