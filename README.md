@@ -13,11 +13,6 @@ My name is Vitor and I'm a computer engineer student. I'm from Brazil, and curre
   
 </div>
 
-<!-- <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=VHGC1&theme=gotham&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VHGC1&theme=gotham&layout=compact" />
-</div> -->
-
 ## About me
   
 ```js
@@ -29,7 +24,7 @@ My name is Vitor and I'm a computer engineer student. I'm from Brazil, and curre
   
 ```
 
-### 🔢 Programming
+## 🔢 Programming
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -39,3 +34,7 @@ My name is Vitor and I'm a computer engineer student. I'm from Brazil, and curre
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
+<div>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=VHGC1&theme=gotham&count_private=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VHGC1&theme=gotham&layout=compact" />
+</div>
