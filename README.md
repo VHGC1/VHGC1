@@ -35,6 +35,6 @@ My name is Vitor and I'm a computer engineer student. I'm from Brazil, and curre
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 <div>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=VHGC1&theme=gotham&count_private=true" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VHGC1&theme=gotham&layout=compact" />
+<img width="250px" heigth="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=VHGC1&theme=gotham&count_private=true" />
+<img width="250px" heigth="200px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VHGC1&theme=gotham&layout=compact" />
 </div>
