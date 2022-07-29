@@ -19,7 +19,7 @@ My name is Vitor and I'm a computer engineer student. I'm from Brazil, and curre
   const User = {
     name: "Vitor",
     nationality: "Brazilian",
-    role: "FrontEnd",
+    role: "Backend",
   }
   
 ```
