@@ -1,6 +1,6 @@
 # Hello Folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" >
 
-My name is Vitor and I'm a computer engineer student. I'm from Brazil, and currently searching for a intership.
+My name is Vitor and I'm a computer engineer student.
 
 <div>
   
